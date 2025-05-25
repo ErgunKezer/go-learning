@@ -142,6 +142,7 @@ func arrayDeclaration() {
 }
 
 func main() {
+	fmt.Println("this is a test commit")
 	runAlmostEqual()
 	compareTwoDifferentType()
 	declarations()
